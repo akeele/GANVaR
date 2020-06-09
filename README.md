@@ -1,0 +1,2 @@
+# GANVaR
+Master's thesis
